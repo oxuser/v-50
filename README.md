@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tensorflow
 - 📫 How to reach me: v-50
-- 😄 Pronouns: Sir
 - ⚡ Fun fact: I am bot.
+- 😄 Pronouns: Bot
